@@ -8,13 +8,14 @@ package farlocco;
  *
  * @author B045_06
  */
-public class Farlocco {
+public class c {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         System.out.println("hell");
+         
     }
     
 }
